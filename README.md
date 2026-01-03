@@ -1,6 +1,6 @@
 # 🏥 Medical Data Pipeline for Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/medical-pipeline-colab/blob/main/Medical_Data_Pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Matlubenya/medical-pipeline-colab/blob/main/Medical_Data_Pipeline.ipynb)
 
 ## Quick Start
 1. Click Colab badge
